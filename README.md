@@ -42,4 +42,35 @@ Filipe Braga, Arthur Daniel e Aldrey Sandre
 
 GitHub: @Flipebgr, @arthurdanielp e @Code-AldreySandre
 
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/arthurdanielp" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/185421475?v=4" width="100px;" alt="Foto do Arthur Daniel no GitHub"/><br>
+        <sub>
+          <b>Arthur Daniel</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/165036139?v=4" width="100px;" alt="Foto do Aldrey Sandre no GitHub"/><br>
+        <sub>
+          <b>Aldrey Sandre</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Flipebgr" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/7088562?v=4" width="100px;" alt="Foto do Felipe Braga no GitHub"/><br>
+        <sub>
+          <b>Felipe Braga</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 Projeto desenvolvido como estudo de POO em Java
