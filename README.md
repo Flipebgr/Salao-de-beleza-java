@@ -64,7 +64,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/Flipebgr" title="defina o título do link">
-        <img src="https://avatars.githubusercontent.com/u/7088562?v=4" width="100px;" alt="Foto do Felipe Braga no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/185312030?v=4" width="100px;" alt="Foto do Felipe Braga no GitHub"/><br>
         <sub>
           <b>Felipe Braga</b>
         </sub>
